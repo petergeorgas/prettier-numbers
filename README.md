@@ -12,7 +12,7 @@ npm install --save pretty-numbers
 
 ```js
 /* ES6 */
-import { prettyNumber } from "pretty-numbers";
+import { prettyNumber } from "prettier-numbers";
 
 // No options specified
 const nice_number = prettyNumber(136415);
