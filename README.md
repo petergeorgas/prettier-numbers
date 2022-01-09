@@ -1,6 +1,6 @@
-# pretty-numbers
+# prettier-numbers
 
-pretty-numbers is a simple module written in TypeScript that aims to make (especially larger) numbers look better. The inspiration for this project is how Twitter specifically formats numbers larger than 9,999 in Tweet interactions (i.e. 10,153 becomes 10.1K).
+prettier-numbers is a simple module written in TypeScript that aims to make (especially larger) numbers look better. The inspiration for this project is how Twitter specifically formats numbers larger than 9,999 in Tweet interactions (i.e. 10,153 becomes 10.1K).
 
 ## Install
 
