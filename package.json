@@ -1,6 +1,6 @@
 {
 	"name": "prettier-numbers",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Convert numbers to a prettier string format. ",
 	"main": "index.js",
 	"scripts": {
