@@ -1,5 +1,9 @@
-# prettier-numbers
-
+<h1 align="center">prettier-numbers</h1>
+<p align="center">
+<a href="/LICENSE"><img src="https://img.shields.io/github/license/petergeorgas/prettier-numbers?style=flat-square" alt="MIT License"></a>
+<a href="https://www.typescriptlang.org"><img alt="Language" src="https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square"></a>
+<a href="https://github.com/bubkoo/html-to-image/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square"></a>
+</p>
 prettier-numbers is a simple module written in TypeScript that aims to make (especially larger) numbers look better. The inspiration for this project is how Twitter specifically formats numbers larger than 9,999 in Tweet interactions (i.e. 10,153 becomes 10.1K).
 
 ## Install
