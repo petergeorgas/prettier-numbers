@@ -1,27 +1,27 @@
 {
-  "name": "pretty-numbers",
-  "version": "1.0.0",
-  "description": "Convert numbers to a prettier string format. ",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.ts",
-    "test": "jest"
-  },
-  "keywords": [
-    "conversion",
-    "readable",
-    "formatting",
-    "numbers"
-  ],
-  "author": "Peter Georgas",
-  "license": "ISC",
-  "devDependencies": {
-    "@babel/preset-typescript": "^7.16.7",
-    "@types/jest": "^27.4.0",
-    "@types/node": "^17.0.6",
-    "jest": "^27.4.5",
-    "ts-jest": "^27.1.2",
-    "typescript": "^4.5.4"
-  },
-  "dependencies": {}
+	"name": "prettier-numbers",
+	"version": "1.0.0",
+	"description": "Convert numbers to a prettier string format. ",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.ts",
+		"test": "jest"
+	},
+	"keywords": [
+		"conversion",
+		"readable",
+		"formatting",
+		"numbers"
+	],
+	"author": "Peter Georgas",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/preset-typescript": "^7.16.7",
+		"@types/jest": "^27.4.0",
+		"@types/node": "^17.0.6",
+		"jest": "^27.4.5",
+		"ts-jest": "^27.1.2",
+		"typescript": "^4.5.4"
+	},
+	"dependencies": {}
 }
