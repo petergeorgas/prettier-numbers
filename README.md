@@ -9,7 +9,7 @@ prettier-numbers is a simple module written in TypeScript that aims to make (esp
 ## Install
 
 ```
-npm install --save pretty-numbers
+npm install --save prettier-numbers
 ```
 
 ## Usage
