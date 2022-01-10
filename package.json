@@ -1,6 +1,6 @@
 {
 	"name": "prettier-numbers",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Convert numbers to a prettier string format. ",
 	"main": "index.js",
 	"scripts": {
@@ -14,7 +14,7 @@
 		"numbers"
 	],
 	"author": "Peter Georgas",
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"@babel/preset-typescript": "^7.16.7",
 		"@types/jest": "^27.4.0",
